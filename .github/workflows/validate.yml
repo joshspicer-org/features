@@ -14,3 +14,4 @@ jobs:
         with:
           validate-only: "true"
           base-path-to-features: "./src"
+          devcontainer-cli-debug-mode: "true"
